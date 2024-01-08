@@ -698,3 +698,60 @@ margin-left: -85px;
     width: 40px;
     margin-top: 5px;
   }
+
+  @media only screen and (max-width: 1800px){
+
+    .container{
+      width: 1600px;
+    }
+    .container-s3{
+      margin-left: -800px;
+    }
+
+    .container6{
+      width: 1550px;
+      height: 800px;
+    }
+    .container5{
+      width: 1600px;
+      
+    }
+    .container4{
+      margin-left: 1360px;
+    }
+    .container3{
+      margin-left: 1100px;
+    }
+    .card1{
+      margin-left: 300px;
+    }
+    .card2{
+      margin-left: 700px;
+    }
+    .card3{
+      margin-left: 1100px;
+    }
+    .card4{
+      margin-left: 300px;
+      width: 500px;
+    }
+    .card5{
+      margin-left: 900px;
+      width: 500px;
+    }
+    .toggle-btn{
+      margin-left: 1150px;
+    }
+    .para-blue{
+      margin-left: 1000px;
+    }
+    .container-s{
+      margin-left: 1560px;
+    }
+    .container-s2{
+      margin-left: 1560px;
+    }
+    .container-s3{
+      margin-left: 1560px;
+    }
+  }
